@@ -18,5 +18,5 @@ Este projeto automatiza a ingestão, tratamento e carga de dados de vendas não 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/automacao-python-sql.git](https://github.com/SEU-USUARIO/automacao-python-sql.git)
+   git clone [https://github.com/alangomes-gif/automacao-python-sql.git](https://github.com/SEU-USUARIO/automacao-python-sql.git)
    cd automacao-python-sql
